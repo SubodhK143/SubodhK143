@@ -20,6 +20,12 @@
 
 ## 👨‍💻 About Me
 
+> **Unique touch:** a live terminal that "types" my intro
+
+<div align="center">
+  <img src="assets/terminal.svg" alt="Animated terminal intro" width="760"/>
+</div>
+
 ```yaml
 name:        Subodh Kumar
 role:        AWS Cloud Support Engineer
@@ -30,7 +36,7 @@ currently:   Deepening Terraform, Docker, Jenkins & Kubernetes
 passionate:  Performance optimization, security & reliable deployments
 ```
 
-- ☁️ I troubleshoot and manage AWS services — **EC2, IAM, S3, RDS, CloudWatch, CloudFront, Route 53**
+- ☁️ I troubleshoot and manage AWS services: **EC2, IAM, S3, RDS, CloudWatch, CloudFront, Route 53**
 - 🏗️ I design **highly available, scalable** architectures
 - ⚙️ I automate infrastructure with **Terraform** and server configuration with **Ansible**
 - 🔐 I care about **least-privilege access**, encryption and secure-by-default setups
@@ -38,6 +44,23 @@ passionate:  Performance optimization, security & reliable deployments
 ---
 
 ## 🏅 Certifications
+
+> **Unique touch:** my AWS certification map (rendered live by GitHub)
+
+```mermaid
+flowchart LR
+    A([AWS Certification Map]) --> F[Foundational]
+    A --> S[Associate]
+    F --> C1[Cloud Practitioner<br/>CLF-C02]
+    F --> C2[AI Practitioner<br/>AIF-C01]
+    S --> C3[Solutions Architect<br/>Associate]
+    style A fill:#f97316,stroke:#f97316,color:#fff
+    style F fill:#232F3E,stroke:#FF9900,color:#fff
+    style S fill:#232F3E,stroke:#FF9900,color:#fff
+    style C1 fill:#161b22,stroke:#38bdf8,color:#fff
+    style C2 fill:#161b22,stroke:#38bdf8,color:#fff
+    style C3 fill:#161b22,stroke:#38bdf8,color:#fff
+```
 
 <div align="center">
 
@@ -50,6 +73,42 @@ passionate:  Performance optimization, security & reliable deployments
 ---
 
 ## 🛠️ Tech Stack
+
+> **Unique touch:** an interactive-style skill mind map
+
+```mermaid
+mindmap
+  root((Subodh Kumar))
+    AWS
+      EC2
+      S3
+      IAM
+      VPC
+      RDS
+      CloudWatch
+      CloudFront
+      Route 53
+      ELB and ASG
+    DevOps
+      Terraform
+      Ansible
+      Docker
+      Kubernetes
+      Jenkins
+    Security
+      Least Privilege
+      Encryption
+      SSH Keys
+      HTTPS
+    Languages
+      Python
+      Java
+      Shell
+    Data
+      MS SQL Server
+      PostgreSQL
+      MySQL
+```
 
 <div align="center">
 
@@ -105,23 +164,89 @@ passionate:  Performance optimization, security & reliable deployments
 
 ## 🚀 Featured Projects
 
+> **Unique touch:** an animated request-flow diagram of my 3-tier AWS build
+
+<div align="center">
+  <img src="assets/architecture.svg" alt="Animated 3-tier AWS architecture" width="700"/>
+</div>
+
 | Project | Tech | Highlights |
 |---------|------|------------|
-| **🏢 3-Tier Web Application on AWS** | `EC2` `RDS` `ELB` `Auto Scaling` `S3` | Frontend/backend on EC2 with RDS database; improved modularity and fault isolation by **60%**; automated S3→EC2 file transfer cut manual overhead by **40%** |
+| **🏢 [3-Tier Web Application on AWS](https://github.com/SubodhK143/Three-Tier-App-On-AWS)** | `EC2` `RDS` `ELB` `Auto Scaling` `S3` | Frontend/backend on EC2 with RDS database; improved modularity and fault isolation by **60%**; automated S3→EC2 file transfer cut manual overhead by **40%** |
 | **🌐 Static Website on S3 + CloudFront** | `S3` `CloudFront` `OAC` `HTTPS` | Private S3 bucket served via global CDN; HTTPS (SSL/TLS) and Origin Access Control block direct public access |
 | **🧱 Terraform & Ansible Provisioning** | `Terraform` `Ansible` `EC2` `VPC` `Nginx` `Git` | Reusable Terraform modules for EC2, Security Groups and VPC; Ansible playbooks automate Nginx deployment; SSH key-based auth |
 
-> 📂 Browse all repositories → **[github.com/SubodhK143?tab=repositories](https://github.com/SubodhK143?tab=repositories)**
+---
+
+## 📚 All Repositories
+
+> **Unique touch:** live repo cards, grouped by topic, plus a table that refreshes itself every day (see `update-repos.yml`)
+
+### ☁️ AWS & Cloud
+
+<table>
+<tr>
+<td><a href="https://github.com/SubodhK143/Three-Tier-App-On-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=Three-Tier-App-On-AWS&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Three-Tier-App-On-AWS"/></a></td>
+<td><a href="https://github.com/SubodhK143/Serverless-Real-Time-Chat-Application-With-Global-Distribution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=Serverless-Real-Time-Chat-Application-With-Global-Distribution&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Serverless chat app"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SubodhK143/AWS-S3-Weather-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=AWS-S3-Weather-App&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AWS-S3-Weather-App"/></a></td>
+<td><a href="https://github.com/SubodhK143/KodeKloud-AWS-Day-47-Integrating-AWS-SQS-and-SNS-for-Reliable-Messaging"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=KodeKloud-AWS-Day-47-Integrating-AWS-SQS-and-SNS-for-Reliable-Messaging&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="KodeKloud SQS and SNS"/></a></td>
+</tr>
+</table>
+
+### 🐧 DevOps & Web Servers
+
+<table>
+<tr>
+<td><a href="https://github.com/SubodhK143/DevOps-Notes-By-SK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=DevOps-Notes-By-SK&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DevOps-Notes-By-SK"/></a></td>
+<td><a href="https://github.com/SubodhK143/Nginx-HTML-Files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=Nginx-HTML-Files&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nginx-HTML-Files"/></a></td>
+</tr>
+</table>
+
+### 🐍 Python & Practice Tasks
+
+<table>
+<tr>
+<td><a href="https://github.com/SubodhK143/CODSOFT_TASK1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=CODSOFT_TASK1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CODSOFT_TASK1"/></a></td>
+<td><a href="https://github.com/SubodhK143/CODSOFT_TASK2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=CODSOFT_TASK2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CODSOFT_TASK2"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SubodhK143/CODSOFT_TASK5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=CODSOFT_TASK5&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CODSOFT_TASK5"/></a></td>
+<td><a href="https://github.com/SubodhK143/itvedant-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SubodhK143&repo=itvedant-demo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="itvedant-demo"/></a></td>
+</tr>
+</table>
+
+### 🔄 Auto-Updating Repository Table
+
+<!--REPOS:START-->
+| Repository | Description | Language | ⭐ |
+|------------|-------------|----------|----|
+| [DevOps-Notes-By-SK](https://github.com/SubodhK143/DevOps-Notes-By-SK) | | | 0 |
+| [Serverless-Real-Time-Chat-Application-With-Global-Distribution](https://github.com/SubodhK143/Serverless-Real-Time-Chat-Application-With-Global-Distribution) | | CSS | 0 |
+| [AWS-S3-Weather-App](https://github.com/SubodhK143/AWS-S3-Weather-App) | | CSS | 0 |
+| [CODSOFT_TASK5](https://github.com/SubodhK143/CODSOFT_TASK5) | | Python | 0 |
+| [CODSOFT_TASK2](https://github.com/SubodhK143/CODSOFT_TASK2) | | Python | 0 |
+| [CODSOFT_TASK1](https://github.com/SubodhK143/CODSOFT_TASK1) | | Python | 0 |
+| [Nginx-HTML-Files](https://github.com/SubodhK143/Nginx-HTML-Files) | | HTML | 0 |
+| [KodeKloud-AWS-Day-47-Integrating-AWS-SQS-and-SNS-for-Reliable-Messaging](https://github.com/SubodhK143/KodeKloud-AWS-Day-47-Integrating-AWS-SQS-and-SNS-for-Reliable-Messaging) | | | 0 |
+| [Three-Tier-App-On-AWS](https://github.com/SubodhK143/Three-Tier-App-On-AWS) | This is my first Git Repository. | JavaScript | 0 |
+| [itvedant-demo](https://github.com/SubodhK143/itvedant-demo) | This is my first Git Repository. | | 0 |
+<!--REPOS:END-->
 
 ---
 
 ## 💼 Experience
 
-```text
-2024 – Present   AWS Cloud Support Engineer      GenieUS Tech Pvt. Ltd. (Remote)
-2023 – 2024      AWS Course (Hands-on training)  IT Vedant Pvt Ltd, Thane
-2020 – 2023      Technical Support Associate     Freelance, Ranchi
-2017 – 2020      Executive / Admin               Santosh Diesel, Ranchi
+> **Unique touch:** my career as a live timeline
+
+```mermaid
+timeline
+    title Career Journey
+    2017-2020 : Executive / Admin : Santosh Diesel, Ranchi
+    2020-2023 : Technical Support Associate : Freelance IT support
+    2023-2024 : AWS Course : IT Vedant, Thane
+    2024-Present : AWS Cloud Support Engineer : GenieUS Tech, Remote
 ```
 
 **What I do day to day**
@@ -135,7 +260,13 @@ passionate:  Performance optimization, security & reliable deployments
 
 ## 📊 GitHub Stats
 
+> **Unique touch:** a rotating dev quote plus the full stats wall
+
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+
+<br/><br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SubodhK143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhK143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
@@ -162,7 +293,6 @@ passionate:  Performance optimization, security & reliable deployments
 
 <div align="center">
 
-<!-- Requires the GitHub Action described in the notes; see snake.yml -->
 <img src="https://raw.githubusercontent.com/SubodhK143/SubodhK143/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
@@ -171,9 +301,17 @@ passionate:  Performance optimization, security & reliable deployments
 
 ## 🎯 Currently
 
-- 🔭 Building hands-on projects with **Terraform, Docker, Jenkins and Kubernetes**
-- 🌱 Strengthening CI/CD and cloud automation skills
-- 💡 Exploring cost optimization patterns on AWS
+> **Unique touch:** my DevOps loop, animated, with a live learning checklist
+
+<div align="center">
+  <img src="assets/devops-loop.svg" alt="Animated DevOps loop" width="720"/>
+</div>
+
+- [x] AWS core services (EC2, S3, IAM, VPC, RDS, CloudWatch)
+- [x] Infrastructure as Code with Terraform and Ansible
+- [ ] Docker and Kubernetes in more depth
+- [ ] Jenkins CI/CD pipelines end to end
+- [ ] AWS cost optimization patterns
 - 🤝 Open to collaborating on **AWS / DevOps** projects
 
 ---
@@ -196,4 +334,3 @@ passionate:  Performance optimization, security & reliable deployments
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer" width="100%"/>
-
