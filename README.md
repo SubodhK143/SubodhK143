@@ -83,33 +83,63 @@ My work focuses on building and supporting reliable cloud environments, improvin
 
 ## Technical Skills
 
-### AWS & Cloud Infrastructure
+<div align="center">
 
-`EC2` `S3` `IAM` `VPC` `RDS` `CloudWatch` `CloudFront` `Route 53` `ELB` `Auto Scaling Groups` `AWS Amplify` `High Availability` `Origin Access Control` `Cost Optimization` `Billing Management`
+### Cloud & Infrastructure
 
-### Infrastructure as Code & Automation
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="AWS IAM" />
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Amazon VPC" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch" />
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white" alt="Amazon CloudFront" />
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Amazon Route 53" />
+<img src="https://img.shields.io/badge/ELB_&_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ELB and Auto Scaling" />
 
-`Terraform` `Terraform Modules` `Remote State` `Variables` `Outputs` `Ansible` `Playbooks` `Nginx Deployment` `Service Management`
+### Infrastructure as Code & Configuration
 
-### Containers & CI/CD
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Reusable_Modules-5C4EE5?style=for-the-badge&logo=stackshare&logoColor=white" alt="Reusable modules" />
+<img src="https://img.shields.io/badge/Remote_State-4053D6?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform remote state" />
+<img src="https://img.shields.io/badge/Nginx_Deployment-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx deployment" />
 
-`Docker` `Kubernetes` `Jenkins` `CI/CD Concepts` `Deployment Automation`
+### Containers, CI/CD & Version Control
 
-### Programming & Operating Systems
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 
-`Python` `Java` `Shell Scripting` `Linux` `Windows` `Nginx`
+### Security, Networking & Operations
 
-### Networking, Security & Monitoring
+<img src="https://img.shields.io/badge/Least_Privilege-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Least privilege" />
+<img src="https://img.shields.io/badge/Security_Groups-232F3E?style=for-the-badge&logo=amazonvpc&logoColor=white" alt="Security groups" />
+<img src="https://img.shields.io/badge/DNS_&_Load_Balancing-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS and load balancing" />
+<img src="https://img.shields.io/badge/SSL%2FTLS-2E8B57?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL/TLS" />
+<img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH" />
+<img src="https://img.shields.io/badge/Monitoring_&_Alarms-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Monitoring and alarms" />
+<img src="https://img.shields.io/badge/Cost_Optimization-2EA44F?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cost optimization" />
 
-`VPC Components` `Security Groups` `Load Balancing` `DNS` `IAM Roles & Policies` `Least-Privilege Access` `RBAC` `Encryption` `SSH Key-Based Authentication` `HTTPS/SSL/TLS` `CloudWatch Metrics` `CloudWatch Alarms`
+### Scripting, Systems & Databases
 
-### Databases
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell scripting" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
-`MS SQL Server` `PostgreSQL` `MySQL` `T-SQL` `PL/SQL` `Stored Procedures` `Performance Tuning` `Query Optimization` `Schema Design` `Data Governance` `Backup & Recovery`
+</div>
 
-### Version Control
-
-`Git` `GitHub` `GitLab`
+> **Core strengths:** AWS troubleshooting · Cloud monitoring · IAM security · Infrastructure automation · Highly available architecture · Cost-conscious operations
 
 ---
 
