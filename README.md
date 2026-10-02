@@ -13,11 +13,8 @@
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-```yaml
 name: Subodh Kumar
 location: Pune, Maharashtra, India
 email: subodhawscertified@gmail.com
@@ -53,21 +50,18 @@ certifications:
   - AWS Certified Solutions Architect – Associate
   - AWS Certified Cloud Practitioner
   - AWS Certified AI Practitioner
-```
 
-### 🎯 Professional Focus
+🎯 Professional Focus
 
-I am an **AWS Certified Cloud Engineer** with **2+ years of hands-on experience as an AWS Cloud Support Engineer**, focused on AWS infrastructure, automation, troubleshooting and cost optimization.
+I am an AWS Certified Cloud Engineer with 2+ years of hands-on experience as an AWS Cloud Support Engineer, focused on AWS infrastructure, automation, troubleshooting and cost optimization.
 
-My experience includes AWS services such as **EC2, IAM, S3, RDS, CloudWatch, CloudFront, Route 53, ELB and Auto Scaling**, along with Infrastructure as Code using **Terraform and Ansible**.
+My experience includes AWS services such as EC2, IAM, S3, RDS, CloudWatch, CloudFront, Route 53, ELB and Auto Scaling, along with Infrastructure as Code using Terraform and Ansible.
 
-I also have working exposure to **Docker, Jenkins and Kubernetes** for cloud automation and CI/CD concepts.
+I also have working exposure to Docker, Jenkins and Kubernetes for cloud automation and CI/CD concepts.
 
----
+🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
-### ☁️ AWS Cloud & Infrastructure
+☁️ AWS Cloud & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
@@ -84,19 +78,20 @@ I also have working exposure to **Docker, Jenkins and Kubernetes** for cloud aut
 <img src="https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/>
 </p>
 
-**AWS:** EC2, S3, IAM, VPC, RDS, CloudWatch, CloudFront, Route 53, ELB, Auto Scaling Groups, High Availability Architecture, OAC, Cost Optimization, Billing Management, Amplify
+AWS: EC2, S3, IAM, VPC, RDS, CloudWatch, CloudFront, Route 53, ELB, Auto Scaling Groups, High Availability Architecture, OAC, Cost Optimization, Billing Management, Amplify
 
-### 🏗️ Infrastructure as Code & Configuration Management
+🏗️ Infrastructure as Code & Configuration Management
 
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-- Terraform: Modules, Remote State, Variables, Outputs
-- Ansible: Playbooks, Nginx deployment, service management
+Terraform: Modules, Remote State, Variables, Outputs
 
-### ⚙️ DevOps & Containers
+Ansible: Playbooks, Nginx deployment, service management
+
+⚙️ DevOps & Containers
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -107,14 +102,19 @@ I also have working exposure to **Docker, Jenkins and Kubernetes** for cloud aut
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-- Docker
-- Kubernetes
-- Jenkins
-- CI/CD Concepts
-- Deployment Automation
-- Git, GitHub, GitLab
+Docker
 
-### 🐧 Linux & Scripting
+Kubernetes
+
+Jenkins
+
+CI/CD Concepts
+
+Deployment Automation
+
+Git, GitHub, GitLab
+
+🐧 Linux & Scripting
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -123,118 +123,160 @@ I also have working exposure to **Docker, Jenkins and Kubernetes** for cloud aut
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-- Linux: EC2 management, User Data, basic automation
-- Windows
-- Python
-- Java
-- Shell Scripting
+Linux: EC2 management, User Data, basic automation
 
-### 📊 Monitoring, Security & Networking
+Windows
 
-- **Monitoring:** AWS CloudWatch, metrics, alarms, proactive monitoring and escalation
-- **Security:** IAM Roles & Policies, Least-Privilege Access, RBAC, encryption settings, SSH key-based authentication, HTTPS/SSL/TLS
-- **Networking:** VPC components, Security Groups, Load Balancing, DNS/Route 53, cloud networking fundamentals
-- **Web Server:** Nginx
+Python
 
-### 🗄️ Databases
+Java
 
-- MS SQL Server
-- PostgreSQL
-- MySQL
-- T-SQL
-- PL/SQL
-- Stored Procedures
-- Performance Tuning
-- Query Optimization
-- Schema Design
-- Data Governance
-- Backup & Recovery
+Shell Scripting
 
----
+📊 Monitoring, Security & Networking
 
-## 💼 Professional Experience
+Monitoring: AWS CloudWatch, metrics, alarms, proactive monitoring and escalation
 
-### AWS Cloud Support Engineer
-**GenieUS Tech Pvt. Ltd. — Bengaluru (Remote)**  
-**07/2024 – Present**
+Security: IAM Roles & Policies, Least-Privilege Access, RBAC, encryption settings, SSH key-based authentication, HTTPS/SSL/TLS
 
-- Provide support and troubleshooting for AWS EC2, IAM permission issues and S3 data access.
-- Monitor infrastructure using CloudWatch and create alarms for proactive system management and issue escalation.
-- Assist in hosting and securing static websites via S3, CloudFront and Route 53 DNS configurations.
-- Support database connectivity through RDS configuration and performance monitoring.
-- Contribute to security enforcement by implementing IAM least-privilege policies and managing encryption settings.
-- Gained exposure to Terraform, Docker, Jenkins and Kubernetes for cloud automation and CI/CD concepts.
+Networking: VPC components, Security Groups, Load Balancing, DNS/Route 53, cloud networking fundamentals
 
-### AWS Course
-**IT Vedant Pvt. Ltd. — Thane, Mumbai**  
-**2023 – 2024**
+Web Server: Nginx
 
-- Hands-on with AWS services including EC2, S3, IAM, VPC, RDS and CloudWatch.
-- Deployed basic cloud architectures using AWS best practices.
-- Implemented IAM security, role-based access control and user policies.
-- Managed Linux EC2 instances, User Data and basic automation.
-- Learned billing management, cost optimization, cloud networking and scalability concepts.
+🗄️ Databases
 
-### Technical Support Associate (Freelance)
-**IT Support, System Administration & Troubleshooting — Ranchi, Jharkhand**  
-**2020 – 2023**
+MS SQL Server
 
-- Provided technical support for Windows and Linux systems.
-- Assisted users with software installation, configuration and troubleshooting.
-- Resolved network connectivity, hardware and system-related issues.
-- Supported system maintenance, user account management and access control.
-- Documented incidents and ensured timely issue resolution.
+PostgreSQL
 
-### Executive/Admin
-**Santosh Diesel — Ranchi, Jharkhand**  
-**2017 – 2020**
+MySQL
 
-- Managed administrative operations, documentation and reporting.
-- Coordinated with vendors and customers.
-- Maintained inventory management, billing and basic accounts support.
-- Improved workflow efficiency and operational processes.
+T-SQL
 
----
+PL/SQL
 
-## 🚀 Key Projects
+Stored Procedures
 
-### 🏗️ 3-Tier Web Application on AWS
+Performance Tuning
 
-**EC2 | RDS | Elastic Load Balancing | Auto Scaling | S3 | High Availability**
+Query Optimization
 
-- Designed and deployed a 3-tier web architecture with frontend and backend on EC2 instances and database on Amazon RDS.
-- Improved system modularity and fault isolation by **60%**.
-- Utilized S3 for centralized file management and automated transfer to EC2.
-- Reduced manual deployment overhead by **40%**.
+Schema Design
 
-### 🌐 Static Website Deployment on AWS S3 with CloudFront
+Data Governance
 
-**S3 | CloudFront | OAC | HTTPS (SSL/TLS)**
+Backup & Recovery
 
-- Deployed a highly available static website on Amazon S3.
-- Integrated CloudFront CDN for global, low-latency content delivery.
-- Configured HTTPS (SSL/TLS).
-- Implemented Origin Access Control (OAC) to keep the S3 bucket private and restrict direct public access.
-- Optimized caching and content delivery while focusing on security, availability and reliability.
+💼 Professional Experience
 
-### 🏗️ Infrastructure Provisioning & Configuration Management
+AWS Cloud Support Engineer
 
-**EC2 | VPC | Security Groups | Terraform | Ansible | Linux | Git | GitHub | Nginx**
+GenieUS Tech Pvt. Ltd. — Bengaluru (Remote)
+07/2024 – Present
 
-- Provisioned AWS infrastructure including EC2 instances, Security Groups and VPC components using Terraform.
-- Developed reusable Terraform modules to automate deployments and reduce manual configuration.
-- Configured Linux servers with Ansible Playbooks.
-- Automated Nginx deployment and service management.
-- Implemented SSH key-based authentication for secure remote administration.
-- Managed infrastructure state and version control with Git and GitHub.
+Provide support and troubleshooting for AWS EC2, IAM permission issues and S3 data access.
 
----
+Monitor infrastructure using CloudWatch and create alarms for proactive system management and issue escalation.
 
-## 📚 Hands-On Cloud & DevOps Practice
+Assist in hosting and securing static websites via S3, CloudFront and Route 53 DNS configurations.
+
+Support database connectivity through RDS configuration and performance monitoring.
+
+Contribute to security enforcement by implementing IAM least-privilege policies and managing encryption settings.
+
+Gained exposure to Terraform, Docker, Jenkins and Kubernetes for cloud automation and CI/CD concepts.
+
+AWS Course
+
+IT Vedant Pvt. Ltd. — Thane, Mumbai
+2023 – 2024
+
+Hands-on with AWS services including EC2, S3, IAM, VPC, RDS and CloudWatch.
+
+Deployed basic cloud architectures using AWS best practices.
+
+Implemented IAM security, role-based access control and user policies.
+
+Managed Linux EC2 instances, User Data and basic automation.
+
+Learned billing management, cost optimization, cloud networking and scalability concepts.
+
+Technical Support Associate (Freelance)
+
+IT Support, System Administration & Troubleshooting — Ranchi, Jharkhand
+2020 – 2023
+
+Provided technical support for Windows and Linux systems.
+
+Assisted users with software installation, configuration and troubleshooting.
+
+Resolved network connectivity, hardware and system-related issues.
+
+Supported system maintenance, user account management and access control.
+
+Documented incidents and ensured timely issue resolution.
+
+Executive/Admin
+
+Santosh Diesel — Ranchi, Jharkhand
+2017 – 2020
+
+Managed administrative operations, documentation and reporting.
+
+Coordinated with vendors and customers.
+
+Maintained inventory management, billing and basic accounts support.
+
+Improved workflow efficiency and operational processes.
+
+🚀 Key Projects
+
+🏗️ 3-Tier Web Application on AWS
+
+EC2 | RDS | Elastic Load Balancing | Auto Scaling | S3 | High Availability
+
+Designed and deployed a 3-tier web architecture with frontend and backend on EC2 instances and database on Amazon RDS.
+
+Improved system modularity and fault isolation by 60%.
+
+Utilized S3 for centralized file management and automated transfer to EC2.
+
+Reduced manual deployment overhead by 40%.
+
+🌐 Static Website Deployment on AWS S3 with CloudFront
+
+S3 | CloudFront | OAC | HTTPS (SSL/TLS)
+
+Deployed a highly available static website on Amazon S3.
+
+Integrated CloudFront CDN for global, low-latency content delivery.
+
+Configured HTTPS (SSL/TLS).
+
+Implemented Origin Access Control (OAC) to keep the S3 bucket private and restrict direct public access.
+
+Optimized caching and content delivery while focusing on security, availability and reliability.
+
+🏗️ Infrastructure Provisioning & Configuration Management
+
+EC2 | VPC | Security Groups | Terraform | Ansible | Linux | Git | GitHub | Nginx
+
+Provisioned AWS infrastructure including EC2 instances, Security Groups and VPC components using Terraform.
+
+Developed reusable Terraform modules to automate deployments and reduce manual configuration.
+
+Configured Linux servers with Ansible Playbooks.
+
+Automated Nginx deployment and service management.
+
+Implemented SSH key-based authentication for secure remote administration.
+
+Managed infrastructure state and version control with Git and GitHub.
+
+📚 Hands-On Cloud & DevOps Practice
 
 My practical learning covers:
 
-```text
 AWS
 ├── EC2
 ├── S3
@@ -265,63 +307,230 @@ Operations
 ├── Monitoring
 ├── Troubleshooting
 └── Cost Optimization
-```
 
----
-
-## 🏆 Certifications
+🏆 Certifications
 
 <div align="center">
 
-| Certification | Status |
-|---|---|
-| ☁️ AWS Certified Solutions Architect – Associate | ✅ Certified |
-| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | ✅ Certified |
-| 🤖 AWS Certified AI Practitioner (AIF-C01) | ✅ Certified |
+Certification
 
-### 3× AWS Certified — SAA · CLF · AIF
+Status
+
+☁️ AWS Certified Solutions Architect – Associate
+
+✅ Certified
+
+☁️ AWS Certified Cloud Practitioner (CLF-C02)
+
+✅ Certified
+
+🤖 AWS Certified AI Practitioner (AIF-C01)
+
+✅ Certified
+
+3× AWS Certified — SAA · CLF · AIF
 
 </div>
 
----
+📊 Key Achievements
 
-## 📊 Key Achievements
+📈 60% improvement in system modularity and fault isolation through a 3-tier AWS architecture.
 
-- 📈 **60% improvement** in system modularity and fault isolation through a 3-tier AWS architecture.
-- ⚡ **40% reduction** in manual deployment overhead through automated S3-to-EC2 file transfer.
-- 🏗️ Built **reusable Terraform modules** for consistent infrastructure provisioning.
-- ⚙️ Created **Ansible Playbooks** for automated server configuration and Nginx management.
-- 🔐 Applied IAM least-privilege, encryption and secure SSH practices.
+⚡ 40% reduction in manual deployment overhead through automated S3-to-EC2 file transfer.
 
----
+🏗️ Built reusable Terraform modules for consistent infrastructure provisioning.
 
-## 📂 DevOps Notes
+⚙️ Created Ansible Playbooks for automated server configuration and Nginx management.
 
-### 📘 DevOps Notes by SK
+🔐 Applied IAM least-privilege, encryption and secure SSH practices.
+
+💡 GitHub README note: GitHub does not allow custom CSS/JavaScript hover animations inside README files.
+This profile uses native GitHub-compatible <details> interactions, badges, animated typing SVGs and visual architecture sections to create an interactive feel without breaking GitHub rendering.
+
+✨ Interactive Profile
+
+<details>
+<summary>☁️ <strong>Click to explore my AWS Cloud journey</strong></summary>
+
+<br/>
+
+AWS Cloud Support
+      │
+      ├── EC2 • S3 • IAM • VPC • RDS
+      ├── CloudWatch • CloudFront • Route 53
+      └── ELB • Auto Scaling • Cost Optimization
+                     │
+                     ▼
+          Infrastructure as Code
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+          Terraform      Ansible
+              │             │
+              └──────┬──────┘
+                     ▼
+              DevOps Automation
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+        Docker     Jenkins   Kubernetes
+                     │
+                     ▼
+              AWS DevOps Engineer
+
+🧩 What I Work With
+
+Hover / Click
+
+Area
+
+Technologies
+
+☁️
+
+Cloud
+
+AWS EC2, S3, IAM, VPC, RDS
+
+🏗️
+
+IaC
+
+Terraform, Ansible
+
+🐳
+
+Containers
+
+Docker, Kubernetes
+
+🔄
+
+CI/CD
+
+Jenkins, Git, GitHub, GitLab
+
+🐧
+
+Operations
+
+Linux, Nginx, Shell
+
+📊
+
+Monitoring
+
+CloudWatch
+
+🔐
+
+Security
+
+IAM, RBAC, Encryption, SSH, HTTPS
+
+💰
+
+Optimization
+
+AWS Cost Optimization & Billing
+
+</details>
+
+<details>
+<summary>🚀 <strong>Click to see my project impact</strong></summary>
+
+<br/>
+
+🏗️ 3-Tier AWS Architecture
+
+EC2 → ELB → Auto Scaling → RDS
+Impact: 60% improvement in system modularity and fault isolation.
+
+📦 S3 → EC2 Automation
+
+S3 → Automated Transfer → EC2
+Impact: 40% reduction in manual deployment overhead.
+
+⚙️ Terraform + Ansible
+
+Terraform → Infrastructure → Ansible → Server Configuration → Nginx
+
+</details>
+
+<details>
+<summary>🎓 <strong>Click to see my certifications</strong></summary>
+
+<br/>
+
+🏆 AWS Certified Solutions Architect – Associate
+🏆 AWS Certified Cloud Practitioner (CLF-C02)
+🏆 AWS Certified AI Practitioner (AIF-C01)
+
+3× AWS Certified — SAA · CLF · AIF
+
+</details>
+
+<details>
+<summary>🛠️ <strong>Click to see my current learning path</strong></summary>
+
+<br/>
+
+AWS → Linux → Terraform → Ansible → Docker → Kubernetes → Jenkins → CI/CD → AWS DevOps
+
+</details>
+
+📂 DevOps Notes
+
+📘 DevOps Notes by SK
 
 I maintain structured technical notes covering AWS, Linux, DevOps, Docker, Kubernetes, Terraform, Ansible and troubleshooting.
 
-🔗 **[DevOps-Notes-By-SK](https://github.com/SubodhK143/DevOps-Notes-By-SK)**
+🔗 DevOps-Notes-By-SK
 
 Topics include:
 
-| Area | Topics |
-|---|---|
-| ☁️ AWS | EC2, S3, IAM, VPC, RDS, Lambda, ELB, CloudWatch |
-| 🐧 Linux | Commands, services, permissions, networking, troubleshooting |
-| 🐳 Docker | Images, containers, Dockerfile, networking, Compose |
-| ☸️ Kubernetes | Pods, Deployments, Services, Secrets, ConfigMaps, EKS |
-| ⚙️ Terraform | Providers, resources, variables, modules, VPC, EC2 |
-| 🔧 Ansible | Playbooks, configuration management, Nginx, automation |
-| 🔄 Jenkins | CI/CD, pipelines, build and deployment automation |
-| 🌐 Networking | DNS, TCP/IP, ports, subnets, security groups |
-| 🐚 Shell | Bash scripting and AWS CLI automation |
+Area
 
----
+Topics
 
-## 🎯 Current Career Focus
+☁️ AWS
 
-```text
+EC2, S3, IAM, VPC, RDS, Lambda, ELB, CloudWatch
+
+🐧 Linux
+
+Commands, services, permissions, networking, troubleshooting
+
+🐳 Docker
+
+Images, containers, Dockerfile, networking, Compose
+
+☸️ Kubernetes
+
+Pods, Deployments, Services, Secrets, ConfigMaps, EKS
+
+⚙️ Terraform
+
+Providers, resources, variables, modules, VPC, EC2
+
+🔧 Ansible
+
+Playbooks, configuration management, Nginx, automation
+
+🔄 Jenkins
+
+CI/CD, pipelines, build and deployment automation
+
+🌐 Networking
+
+DNS, TCP/IP, ports, subnets, security groups
+
+🐚 Shell
+
+Bash scripting and AWS CLI automation
+
+🎯 Current Career Focus
+
 AWS Cloud Support Engineer
           ↓
 AWS Cloud Engineering
@@ -333,13 +542,10 @@ Docker & Kubernetes
 CI/CD & Automation
           ↓
 AWS DevOps Engineering
-```
 
 I am focused on strengthening practical AWS and DevOps skills through hands-on projects, troubleshooting scenarios, Infrastructure as Code and automation.
 
----
-
-## 💼 Open to Opportunities
+💼 Open to Opportunities
 
 <div align="center">
 
@@ -350,21 +556,19 @@ I am focused on strengthening practical AWS and DevOps skills through hands-on p
 
 </div>
 
-**Preferred location:** Pune, Maharashtra, India
+Preferred location: Pune, Maharashtra, India
 
----
-
-## 🔗 Let's Connect
+🔗 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/subodh-kumar-aws-certified/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/SubodhK143"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/subodh-kumar-aws-certified/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+<a href="https://github.com/SubodhK143"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
 <a href="https://www.credly.com/users/subodh-kumar.72ee6a45"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 
 <br/><br/>
 
-📧 **subodhawscertified@gmail.com**
+📧 subodhawscertified@gmail.com
 
 <br/><br/>
 
