@@ -4,12 +4,24 @@
 
 ### AWS Cloud Support Engineer | AWS | Terraform | Ansible | Docker | Linux | Cost Optimization
 
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Cloud_Support-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Support" />
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
+</p>
+
 Pune, Maharashtra, India
 
 <a href="mailto:subodhawscertified@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/subodh-kumar-aws-certified">LinkedIn</a> ·
 <a href="https://github.com/SubodhK143">GitHub</a> ·
 <a href="https://www.credly.com/users/subodh-kumar.72ee6a45">Credly</a>
+
+<br />
+<img src="https://komarev.com/ghpvc/?username=SubodhK143&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitors" />
+<img src="https://img.shields.io/github/followers/SubodhK143?label=Followers&style=for-the-badge&color=1a73e8&labelColor=0d1117" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/SubodhK143?label=Stars&style=for-the-badge&color=gold&labelColor=0d1117" alt="GitHub stars" />
 
 </div>
 
@@ -175,5 +187,20 @@ I am interested in opportunities involving AWS infrastructure, cloud support, au
 
 <a href="mailto:subodhawscertified@gmail.com">Contact me by email</a> ·
 <a href="https://www.linkedin.com/in/subodh-kumar-aws-certified">Connect on LinkedIn</a>
+
+<br /><br />
+
+<a href="https://github.com/SubodhK143">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubodhK143&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Subodh's GitHub statistics" />
+</a>
+<a href="https://github.com/SubodhK143">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhK143&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Subodh's top languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/SubodhK143">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubodhK143&theme=tokyonight&hide_border=true" alt="Subodh's GitHub contribution streak" />
+</a>
 
 </div>
