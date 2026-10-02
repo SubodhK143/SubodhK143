@@ -1,8 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:7B42BC,100:232F3E&height=120&section=header&text=AWS%20Cloud%20Support&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated AWS Cloud Support header" />
+
 <div align="center">
 
 # Subodh Kumar
 
 ### AWS Cloud Support Engineer
+
+<a href="https://github.com/SubodhK143">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF9900&center=true&vCenter=true&width=760&lines=AWS+Cloud+Support+Engineer;Infrastructure+Automation+%7C+Terraform+%7C+Ansible;Reliable+Deployments+%7C+Security+%7C+Cost+Optimization" alt="Animated role description" />
+</a>
 
 <p>
   <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
@@ -190,6 +196,12 @@ AWS Certified Cloud Engineer with **2 years of hands-on experience as an AWS Clo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubodhK143&theme=tokyonight&hide_border=true" alt="Subodh's GitHub contribution streak" />
 </a>
 
+<br />
+
+<a href="https://github.com/SubodhK143">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubodhK143&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</a>
+
 </div>
 
 ---
@@ -204,3 +216,5 @@ I am interested in opportunities involving AWS cloud support, infrastructure aut
 <a href="https://www.linkedin.com/in/subodh-kumar-aws-certified">Connect on LinkedIn</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:7B42BC,100:FF9900&height=100&section=footer&animation=fadeIn" width="100%" alt="Animated footer wave" />
