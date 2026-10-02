@@ -38,28 +38,38 @@ Core technologies
 
 
 Featured cloud projects
-1. High-availability 3-tier web application on AWS
-EC2 · RDS · ELB · Auto Scaling · S3
+1. Designed a resilient 3-tier AWS architecture
+EC2 · RDS · Elastic Load Balancing · Auto Scaling · S3
 
-•	Designed a frontend, backend, and database architecture using EC2 and Amazon RDS.
-•	Improved system modularity and fault isolation by 60%.
-•	Used S3 for centralized file management and automated S3-to-EC2 transfers.
-•	Reduced manual deployment overhead by 40%.
+Architecture outcome: 60% improvement in system modularity and fault isolation.
 
-2. Secure static website with S3 and CloudFront
+•	Separated the frontend, application, and data layers across EC2 and Amazon RDS to create a more maintainable architecture.
+•	Applied Elastic Load Balancing and Auto Scaling concepts to support a more available and scalable application design.
+•	Used Amazon RDS as the managed database layer, improving separation of concerns and operational supportability.
+•	Centralized application files in S3 and automated S3-to-EC2 transfer workflows, reducing manual deployment overhead by 40%.
+
+2. Secured and accelerated static content delivery
 S3 · CloudFront · Origin Access Control · HTTPS/TLS · Route 53
 
-•	Deployed a highly available static website using Amazon S3 and CloudFront edge delivery.
-•	Configured HTTPS and Origin Access Control to keep the S3 origin private.
-•	Tuned caching and content delivery for better performance, reliability, and cost control.
+Architecture outcome: Private S3 origin, global edge delivery, and lower operational cost.
 
-3. Terraform + Ansible infrastructure automation
+•	Hosted a static website on Amazon S3 for durable, scalable, and cost-effective storage.
+•	Added CloudFront for low-latency delivery through AWS edge locations and improved caching behavior.
+•	Configured Origin Access Control (OAC) so users access content through CloudFront instead of directly reaching the S3 bucket.
+•	Enabled HTTPS/TLS and Route 53 DNS integration, strengthening the security and reliability of the public delivery path.
+
+3. Replaced manual infrastructure work with reusable IaC
 Terraform · Ansible · EC2 · VPC · Security Groups · Linux · Nginx · Git
 
-•	Provisioned AWS infrastructure with reusable Terraform modules.
-•	Automated Linux software installation, Nginx deployment, and service management with Ansible playbooks.
-•	Applied SSH key-based administration and Git-based infrastructure version control.
-•	Improved deployment consistency and reduced configuration drift.
+Architecture outcome: Repeatable provisioning, consistent server configuration, and reduced configuration drift.
+
+•	Provisioned EC2 instances, VPC components, and Security Groups with reusable Terraform modules.
+•	Managed Terraform variables, outputs, and remote state concepts to make infrastructure easier to reuse and maintain.
+•	Used Ansible playbooks to automate Linux software installation, Nginx deployment, and service management.
+•	Applied SSH key-based authentication and Git/GitHub version control for safer, traceable infrastructure changes.
+
+Architecture principles I apply
+High availability · Fault isolation · Least privilege · Private origins · Infrastructure as Code · Automation first · Cost awareness
 
 
 
