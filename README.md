@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
   <img src="https://img.shields.io/badge/Cloud_Support-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Support" />
   <img src="https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Support_Engineer-2EA44F?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Support Engineer" />
 </p>
 
 Pune, Maharashtra, India · +91 9708018781
@@ -36,6 +36,22 @@ Pune, Maharashtra, India · +91 9708018781
 ## Profile
 
 AWS Certified Cloud Engineer with **2 years of hands-on experience as an AWS Cloud Support Engineer**, specializing in AWS infrastructure, automation, and cost optimization. Experienced in troubleshooting and managing AWS services, designing scalable and high-availability architectures, and implementing Infrastructure as Code (IaC). Passionate about performance optimization, security, and reliable deployments.
+
+## What I Do
+
+- Troubleshoot and support AWS EC2, IAM, S3, RDS, CloudWatch, CloudFront, and Route 53 environments.
+- Monitor infrastructure, configure CloudWatch alarms, and support proactive issue escalation.
+- Automate infrastructure provisioning and server configuration using Terraform and Ansible.
+- Support secure static website hosting with S3, CloudFront, HTTPS/SSL/TLS, and Origin Access Control.
+- Apply IAM least-privilege policies, encryption settings, SSH key-based access, and security best practices.
+- Improve deployment reliability, operational consistency, performance, and cloud cost efficiency.
+
+## Current Focus
+
+- AWS cloud infrastructure support and high-availability architecture
+- Terraform modules, infrastructure state, and Ansible automation
+- Docker, Jenkins, Kubernetes, and practical CI/CD concepts
+- Cloud monitoring, security controls, and cost optimization
 
 ---
 
@@ -131,34 +147,74 @@ AWS Certified Cloud Engineer with **2 years of hands-on experience as an AWS Clo
 
 ## Projects
 
-### 3-Tier Web Application on AWS
-**ELB · ASG · 3-Tier · Cloud Infrastructure Enhancement**
+<div align="center">
 
-- Designed and deployed a 3-tier web architecture with frontend and backend hosted on EC2 instances and database on Amazon RDS, improving system modularity and fault isolation by **60%**.
-- Utilized S3 for centralized file management and automated transfer to EC2, enhancing deployment efficiency and reducing manual overhead by **40%**.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 3-Tier Web Application on AWS
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS" />
+<img src="https://img.shields.io/badge/ELB_·_ASG-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="ELB and ASG" />
+
+Designed and deployed a 3-tier web architecture with frontend and backend hosted on EC2 instances and the database on Amazon RDS.
+
+**Impact**
+
+- Improved system modularity and fault isolation by **60%**.
+- Reduced manual deployment overhead by **40%** using centralized S3 file management and automated transfer to EC2.
+
+</td>
+<td width="50%" valign="top">
 
 ### Static Website Hosting
-**Static Website Deployment on AWS S3 with CloudFront**
 
-- Deployed a highly available static website using Amazon S3, ensuring high durability, scalability, and cost-effectiveness.
-- Integrated Amazon CloudFront CDN to enable global content delivery and low-latency performance using edge locations.
-- Configured HTTPS/SSL/TLS for secure content access and improved security.
-- Implemented Origin Access Control (OAC) to keep the S3 bucket private and restrict direct public access.
-- Optimized caching and content delivery to enhance user experience and reduce operational cost.
-- Followed AWS best practices for security, availability, and reliability.
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" alt="CloudFront" />
+<img src="https://img.shields.io/badge/OAC-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Origin Access Control" />
+<img src="https://img.shields.io/badge/HTTPS-2E8B57?style=flat-square&logo=letsencrypt&logoColor=white" alt="HTTPS" />
 
-### Infrastructure Provisioning and Configuration Management Using Terraform & Ansible
-**AWS Infrastructure Automation · Infrastructure as Code (IaC) · Configuration Management**
+Deployed a highly available static website using Amazon S3 and integrated CloudFront for global, low-latency content delivery.
 
-- Provisioned AWS infrastructure including EC2 instances, Security Groups, and VPC components using Terraform Infrastructure as Code (IaC).
-- Developed reusable Terraform modules to automate infrastructure deployment and reduce manual configuration efforts.
-- Configured Linux servers using Ansible Playbooks for automated software installation and system configuration.
-- Automated Nginx web server deployment and service management using Ansible.
-- Implemented SSH key-based authentication for secure remote server administration.
+**Highlights**
+
+- Configured HTTPS/SSL/TLS for secure content access.
+- Used OAC to keep the S3 bucket private and restrict direct public access.
+- Optimized caching, reliability, and operational cost using AWS best practices.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Infrastructure Provisioning & Configuration Management Using Terraform and Ansible
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+
+Provisioned AWS infrastructure including EC2 instances, Security Groups, and VPC components using Terraform Infrastructure as Code, then configured Linux servers using Ansible Playbooks.
+
+**What I implemented**
+
+- Developed reusable Terraform modules to reduce manual configuration effort.
+- Automated software installation, Nginx deployment, and service management with Ansible.
+- Implemented SSH key-based authentication for secure remote administration.
 - Managed infrastructure state and version control using Git and GitHub.
-- Improved deployment consistency, scalability, and operational efficiency through Infrastructure as Code and Configuration Management practices.
+- Improved deployment consistency, scalability, and operational efficiency through IaC and configuration management practices.
 
-**Technologies used:** AWS EC2, VPC, Security Groups, Terraform, Ansible, Linux, Git, GitHub, Nginx.
+**Technologies:** AWS EC2 · VPC · Security Groups · Terraform · Ansible · Linux · Git · GitHub · Nginx
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -210,7 +266,9 @@ AWS Certified Cloud Engineer with **2 years of hands-on experience as an AWS Clo
 
 ## Let's Connect
 
-I am interested in opportunities involving AWS cloud support, infrastructure automation, security, performance optimization, and reliable deployments.
+**Open to AWS Cloud Support Engineer, Cloud Operations, Infrastructure Automation, and Junior DevOps opportunities.**
+
+I am interested in roles involving AWS cloud support, infrastructure automation, security, performance optimization, and reliable deployments.
 
 <a href="mailto:subodhawscertified@gmail.com">Contact me by email</a> ·
 <a href="https://www.linkedin.com/in/subodh-kumar-aws-certified">Connect on LinkedIn</a>
